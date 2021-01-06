@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/first-ml-catclassifier-client/precache-manifest.105352a6ea534352492fe932fcd7309e.js"
+  "/first-ml-catclassifier-client/precache-manifest.5f17096bd584e12cf84d8e9871a39239.js"
 );
 
 self.addEventListener('message', (event) => {
